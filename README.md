@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gunaharshagulla
-- 👀 I’m interested in AI and Web Development 
-- 🌱 I’m currently focusing on Front end Development
+- 👀 I’m interested in AI and Machine Leanring 
+- 🌱 I’m currently focusing on building my ML skills
 - 💞️ I’m looking to collaborate on some good project
-- 📫 How to reach me @i_harshaa__ on instagram
+- 📫 How to reach me @hrrshhhha on instagram
 
 
 <!---
